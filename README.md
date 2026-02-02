@@ -12,12 +12,12 @@ Client: Africa Trade Desk (ATD) | Timeline: 13 weeks | Methods: PRISMA-ScR + MCD
   Ease of Use, Cost Efficiency, Integration Readiness, Scalability, Paperwork & Reports Automation, Real-Time Visibility.
 
 ### Scoring + ranking model (how the analysis works)
-- Implemented an MCDA Weighted Sum Model:
+  - Implemented an MCDA Weighted Sum Model:
   - normalized scores where needed,
   - applied criterion weights,
   - calculated total scores,
   - generated a full ranking and Top-10 shortlist.
-- Produced decision-ready outputs:
+  - Produced decision-ready outputs:
   - ranked results table (overall + per-criterion breakdown),
   - Top-10 comparison heatmap for quick pattern spotting,
   - visuals to support the final recommendations.
@@ -31,11 +31,11 @@ ATD supports Canada–Africa trade but lacked a repeatable way to evaluate AI lo
 ## My Role as Business Analyst
 
 ### Phase 1: Stakeholder Engagement & Requirements
-**Stakeholder interviews with ATD trade enablement and operations leads to confirm priorities and constraints.
+Stakeholder interviews with ATD trade enablement and operations leads to confirm priorities and constraints.
 - **Susan Namulindwa** (Trade Enablement Lead): Defined "AI-First" mandate, small-team constraint
 - **Victoria Schorr** (Operations): Identified customs automation as priority pain point
 
-**Techniques used:**
+Techniques used:
 - PCC Framework (Population-Concept-Context) to define scope boundaries
 - Root cause analysis revealing knowledge gaps as primary bottleneck
 
@@ -72,9 +72,9 @@ Delivered 3-phase AI-First adoption strategy:
 3. **Integration:** SOP documentation and governance
 
 ## Business Impact
-- **Automated scoring and ranking across 65 tools to reduce manual comparison effort
-- **Reduced decision friction by converting tool selection into a transparent scoring model.
-- **Produced a reusable evaluation matrix and visuals (rankings + heatmaps) to support repeatable tool selection.
+- Automated scoring and ranking across 65 tools to reduce manual comparison effort
+- Reduced decision friction by converting tool selection into a transparent scoring model.
+- Produced a reusable evaluation matrix and visuals (rankings + heatmaps) to support repeatable tool selection.
 
 ## Technical Implementation
 - **Language:** Python (Pandas, Matplotlib, Seaborn)
