@@ -1,4 +1,4 @@
-# ai-tool-evaluation-mcda
+# ai-logistics-tool-selection-mcda
 Business analysis case study: data-driven AI logistics tool selection for Canada–Africa trade. Used stakeholder requirements, MCDA scoring, and Python to rank 65 tools for SME cross-border logistics.
 # Business Analysis: AI Logistics Tool Selection
 **Client:** Africa Trade Desk (ATD) | **Timeline:** 13 Weeks | **Methodology:** PRISMA-ScR + MCDA
