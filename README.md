@@ -5,7 +5,7 @@ Business analysis case study: data-driven AI logistics tool selection for Canada
 
 ## The Business Problem
 ATD facilitates trade between Canadian wholesalers and African suppliers but lacked the internal capability to evaluate AI logistics tools. They faced:
-- Decision paralysis with 65+ vendor options
+- Decision paralysis with 65+ tool options
 - No framework to assess suitability for small teams (1-5 users)
 - Risk of costly technology misalignment in low-infrastructure African markets
 
@@ -51,7 +51,7 @@ Delivered 3-phase AI-First adoption strategy:
 3. **Integration:** SOP documentation and governance
 
 ## Business Impact
-- **90% time reduction:** Vendor evaluation from 40 hours → 4 hours
+- **Automated scoring and ranking across 65 tools to reduce manual comparison effort
 - **Risk mitigation:** Data-driven selection prevents costly misalignment
 - **Reusable asset:** Framework applicable to future technology decisions
 
